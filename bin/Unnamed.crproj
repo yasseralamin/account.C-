@@ -1,0 +1,10 @@
+<project outputDir="C:\Users\Owner\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin" baseDir="C:\Users\Owner\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <module path="WindowsFormsApp1.exe">
+    <rule pattern="true" inherit="false">
+      <protection id="ctrl flow" />
+      <protection id="anti tamper" action="remove" />
+      <protection id="rename" action="remove" />
+      <protection id="constants" />
+    </rule>
+  </module>
+</project>
