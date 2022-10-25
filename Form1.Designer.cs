@@ -60,9 +60,9 @@ namespace WindowsFormsApp1
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(298, 183);
+            this.button2.Location = new System.Drawing.Point(220, 184);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(50, 23);
+            this.button2.Size = new System.Drawing.Size(51, 22);
             this.button2.TabIndex = 0;
             this.button2.Text = "1";
             this.button2.UseVisualStyleBackColor = true;
@@ -70,7 +70,7 @@ namespace WindowsFormsApp1
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(298, 154);
+            this.button3.Location = new System.Drawing.Point(299, 156);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(50, 23);
             this.button3.TabIndex = 0;
@@ -82,7 +82,7 @@ namespace WindowsFormsApp1
             // 
             this.button4.Location = new System.Drawing.Point(410, 183);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(50, 23);
+            this.button4.Size = new System.Drawing.Size(60, 23);
             this.button4.TabIndex = 0;
             this.button4.Text = "3";
             this.button4.UseVisualStyleBackColor = true;
