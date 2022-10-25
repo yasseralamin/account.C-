@@ -12,6 +12,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+        int Test;
         int x, y;
         char op;
 
