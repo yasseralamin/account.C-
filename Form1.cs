@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         int Test;
         int x, y;
         char op;
+        String "احبك";
 
         public Form1()
         {
